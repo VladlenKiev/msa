@@ -1,0 +1,9 @@
+https://github.com/in28minutes/spring-microservices-v2/blob/main/03.microservices/01-step-by-step-changes/microservices-v2-1.md#spring-cloud-api-gateway---step-22-to-step-25
+
+(1) Make sure you start the services in this order (a) netflix-eureka-naming-server (b) netflix-zuul-api-gateway-server (c)currency-exchange-service (d)currency-conversion-service
+
+(2) Make sure all the components are registered with naming server.
+
+(3) Give a minute of warm up time!
+
+(4) If you get an error once, execute it again after 5 minutes
